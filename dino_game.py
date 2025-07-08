@@ -40,7 +40,7 @@ def main():
     
     try:
         wait_for_game_to_load(driver)
-        time.sleep(5)  # Espera antes de começar
+        time.sleep(5)  # Espera antes de começar ### testando 1 ,2 
         
         perform_jump(driver)
         
