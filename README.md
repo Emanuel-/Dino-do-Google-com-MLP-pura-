@@ -8,3 +8,7 @@ Caso queira testar os usados nesse projeto, baixar nesse link https://drive.goog
 
 **Dica:** No arquivo gitignore tem o nome dos arquivos que faltam no projeto, pelo fato deles serem pesados, o commit é custoso então é recomendado deixá-los fora dos commits.
 
+A coluna de arquivos depois de adiconados os arquivos faltantes será algo como:
+
+![image](https://github.com/user-attachments/assets/d0fc0b40-6ca9-4d40-8bdb-0d424887d004)
+
